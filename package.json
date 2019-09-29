@@ -1,0 +1,22 @@
+{
+  "name": "sw_app",
+  "version": "1.0.0",
+  "description": "a star wars app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franckmartin3d/sw_app.git"
+  },
+  "keywords": [
+    "star-wars"
+  ],
+  "author": "Franck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franckmartin3d/sw_app/issues"
+  },
+  "homepage": "https://github.com/franckmartin3d/sw_app#readme"
+}
